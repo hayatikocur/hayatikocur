@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Hayati Kocur. <br/>
-I'm a freshman Computer Engineering Student at Bilkent.
+I'm a freshman Computer Engineering Student at Bilkent. <br/>
+I'm passionate about everything related to technology.
 
 <!--
 **hayatikocur/hayatikocur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
