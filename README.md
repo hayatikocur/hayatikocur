@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Hayati Kocur. 
+I'm Hayati Kocur. <br/>
 I'm a freshman Computer Engineering Student at Bilkent.
 
 <!--
