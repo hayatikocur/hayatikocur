@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Hayati Kocur. <br/>
-I'm a freshman Computer Engineering Student at Bilkent. <br/>
+I'm a sophomore Computer Engineering Student at Bilkent. <br/>
 I'm passionate about everything related to technology.
 
 <!--
