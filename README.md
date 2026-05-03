@@ -1,8 +1,9 @@
-## Hi there 👋
+## 👋
 
-I'm Hayati Kocur. <br/>
-I'm a sophomore Computer Engineering Student at Bilkent. <br/>
-I'm passionate about everything related to technology.
+**Hayati Kocur**
+Bilkent Üniversitesi Bilgisayar Mühendisliği 2. sınıf
+
+Ankara, Türkiye  
 
 <!--
 **hayatikocur/hayatikocur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
