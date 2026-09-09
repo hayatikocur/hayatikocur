@@ -1,7 +1,7 @@
 ## 👋
 
 **Hayati Kocur** <br/>
-Bilkent Üniversitesi Bilgisayar Mühendisliği 2. sınıf <br/>
+Bilkent Üniversitesi Bilgisayar Mühendisliği 3. sınıf <br/>
 Ankara, Türkiye  
 
 <!--
